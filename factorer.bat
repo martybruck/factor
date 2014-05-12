@@ -1,0 +1,1 @@
+java -jar factorer.jar %1%
